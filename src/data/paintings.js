@@ -1,0 +1,3 @@
+const paintings=["https://news.artnet.com/app/news-upload/2015/08/the-sacrament-of-the-last-supper-1955.jpgLarge.jpg","https://news.artnet.com/app/news-upload/2015/08/La_nascita_di_Venere_Botticelli.jpg","https://news.artnet.com/app/news-upload/2015/08/bottocelli-birth-of-venus-golden-ratio.gif","https://news.artnet.com/app/news-upload/2015/08/1280px-Creation_of_Adam_Michelangelo.jpg","https://news.artnet.com/app/news-upload/2015/08/michelangelo-creation-of-adam-golden-ratio.png","https://i.pinimg.com/originals/1a/77/da/1a77daaf6421018677e9f9b2c7c7c31f.jpg"];
+
+export {paintings}
