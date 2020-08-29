@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b7d80e34675d082a61e8a3fd56defbe8",
+    "revision": "57ab487b02785803669330ba6591ecb2",
     "url": "/GoldenRatio-Hack/index.html"
   },
   {
