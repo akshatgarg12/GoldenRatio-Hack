@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7a2c17eb4cb597971b5ebf006bf1c484",
+    "revision": "bb0f70d8e959e8ba90d6e4e61aaa40dd",
     "url": "/GoldenRatio-Hack/index.html"
   },
   {
-    "revision": "b111ade860f0308eb4e6",
+    "revision": "f9bd5576308366169326",
     "url": "/GoldenRatio-Hack/static/css/main.209b34df.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/GoldenRatio-Hack/static/js/2.bd878330.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b111ade860f0308eb4e6",
-    "url": "/GoldenRatio-Hack/static/js/main.21c9ebeb.chunk.js"
+    "revision": "f9bd5576308366169326",
+    "url": "/GoldenRatio-Hack/static/js/main.d9847656.chunk.js"
   },
   {
     "revision": "c2ff35f2c301c890ca21",
