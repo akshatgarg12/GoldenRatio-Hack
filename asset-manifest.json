@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/GoldenRatio-Hack/static/css/main.209b34df.chunk.css",
-    "main.js": "/GoldenRatio-Hack/static/js/main.97f31027.chunk.js",
-    "main.js.map": "/GoldenRatio-Hack/static/js/main.97f31027.chunk.js.map",
+    "main.js": "/GoldenRatio-Hack/static/js/main.21c9ebeb.chunk.js",
+    "main.js.map": "/GoldenRatio-Hack/static/js/main.21c9ebeb.chunk.js.map",
     "runtime-main.js": "/GoldenRatio-Hack/static/js/runtime-main.d0e68cbb.js",
     "runtime-main.js.map": "/GoldenRatio-Hack/static/js/runtime-main.d0e68cbb.js.map",
     "static/js/2.bd878330.chunk.js": "/GoldenRatio-Hack/static/js/2.bd878330.chunk.js",
     "static/js/2.bd878330.chunk.js.map": "/GoldenRatio-Hack/static/js/2.bd878330.chunk.js.map",
     "index.html": "/GoldenRatio-Hack/index.html",
-    "precache-manifest.a87b473d4c92585a6fc20f294d2c6926.js": "/GoldenRatio-Hack/precache-manifest.a87b473d4c92585a6fc20f294d2c6926.js",
+    "precache-manifest.ed1faa0ea3580a1ffb29c9b40504795f.js": "/GoldenRatio-Hack/precache-manifest.ed1faa0ea3580a1ffb29c9b40504795f.js",
     "service-worker.js": "/GoldenRatio-Hack/service-worker.js",
     "static/css/main.209b34df.chunk.css.map": "/GoldenRatio-Hack/static/css/main.209b34df.chunk.css.map",
     "static/js/2.bd878330.chunk.js.LICENSE.txt": "/GoldenRatio-Hack/static/js/2.bd878330.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d0e68cbb.js",
     "static/js/2.bd878330.chunk.js",
     "static/css/main.209b34df.chunk.css",
-    "static/js/main.97f31027.chunk.js"
+    "static/js/main.21c9ebeb.chunk.js"
   ]
 }

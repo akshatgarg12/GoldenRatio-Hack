@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/GoldenRatio-Hack/precache-manifest.a87b473d4c92585a6fc20f294d2c6926.js"
+  "/GoldenRatio-Hack/precache-manifest.ed1faa0ea3580a1ffb29c9b40504795f.js"
 );
 
 self.addEventListener('message', (event) => {
